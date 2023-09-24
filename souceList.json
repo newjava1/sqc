@@ -1,0 +1,11 @@
+[
+  {
+    "ip": "127.0.0.1",
+    "port": "3306",
+    "instanceName": "",
+    "libraryName": "information_schema",
+    "username": "root",
+    "password": "123456",
+    "dbType": "mysql"
+  }
+]
